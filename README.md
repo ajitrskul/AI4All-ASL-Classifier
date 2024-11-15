@@ -14,11 +14,11 @@ as the structure of the internet and related technological infrastructure, it is
 
 
 ## Methodologies 
-Ti accomplish this, we exported a kaggle ASL dataset to utilize for training and split the data into training and testing groups. Utilizing pandas, numpy, openCV, tensorflow and keras, we used supervised learning to train a convolutional neural network to recognize ASL alphabet letters at a level of accuracy comparable to some humans. 
+To accomplish this, we exported a kaggle ASL dataset to utilize for training and split the data into training and testing groups. Utilizing pandas, numpy, openCV, tensorflow and keras, we used supervised learning to train a convolutional neural network to recognize ASL alphabet letters at a level of accuracy comparable to some humans. 
 
 ## Data Sources 
 
-*ASL Kaglge Dataset: [Link to Kaggle Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/debashishsau/aslamerican-sign-language-aplhabet-dataset/data))*
+*ASL Kaggle Dataset: [Link to Kaggle Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/debashishsau/aslamerican-sign-language-aplhabet-dataset/data))*
 
 ## Technologies Used
 
