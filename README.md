@@ -9,7 +9,7 @@ as the structure of the internet and related technological infrastructure, it is
 
 ## Key Results 
 
-1. Trained a CNN on over 200,000 images for ASL Classification
+1. Trained a CNN on 87,000 200 x 200 pixel images for ASL Classification
 2. Achieved a classification accuracy of nearly __% on training data
 
 
