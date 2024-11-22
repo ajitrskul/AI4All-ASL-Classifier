@@ -10,7 +10,7 @@ as the structure of the internet and related technological infrastructure, it is
 ## Key Results 
 
 1. Trained a CNN on 87,000 200 x 200 pixel images for ASL Classification
-2. Achieved a classification accuracy of nearly __% on training data
+2. Achieved a classification accuracy of nearly __% on training data and __% on testing data
 
 
 ## Methodologies 
@@ -31,7 +31,7 @@ To accomplish this, we exported a kaggle ASL dataset to utilize for training and
 
 
 ## Authors
-*This project was completed in collaboration with:*
+*This project was completed by:*
 - *Aurora Jitrskul ([ajitrskul@tamu.edu](mailto:ajitrskul@tamu.edu))*
+*With the following contributor:*
 - *Devanshi Kothuri ([devanshikothari5@gmail.com](mailto:devanshikothari5@gmail.com))*
-- *Reena Vollala ([reena.vollala@gmail.com](mailto:reena.vollala@gmail.com))*
