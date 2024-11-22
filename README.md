@@ -33,5 +33,5 @@ To accomplish this, we exported a kaggle ASL dataset to utilize for training and
 ## Authors
 *This project was completed by:*
 - *Aurora Jitrskul ([ajitrskul@tamu.edu](mailto:ajitrskul@tamu.edu))*
-*With the following contributor:*
-- *Devanshi Kothuri ([devanshikothari5@gmail.com](mailto:devanshikothari5@gmail.com))*
+- *With the following Contributor:*
+  - *Devanshi Kothuri ([devanshikothari5@gmail.com](mailto:devanshikothari5@gmail.com))*
